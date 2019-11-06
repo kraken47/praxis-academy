@@ -1,0 +1,174 @@
+1. cd
+D:\>cd
+D:\
+
+2. assoc
+D:\>assoc .skm
+.skm=SketchUp_SKM
+
+3. date
+D:\>date /t
+06/11/2019
+
+4. dir
+D:\>dir
+ Volume in drive D is Inspiring
+ Volume Serial Number is 382E-5F16
+
+ Directory of D:\
+
+22/09/2018  18:09            12.471 22621439d04c8babccb5c478be3fe3709470fff2_ful
+l.jpg
+15/03/2018  08:04            61.222 24126411_361349144290486_3611580356450320384
+_n.jpg
+26/05/2019  09:41            72.054 300px-Nyx_world.png
+24/10/2018  00:59           183.960 aqua_render_lrg.jpg
+13/02/2019  03:33            11.554 ASDADAD.docx
+28/06/2016  04:50         1.790.556 avnL0eE_700b.jpg
+09/01/2019  11:32    <DIR>          buku statistik ppnratu
+12/07/2016  10:56           445.727 CkXiX.gif
+02/01/2018  23:40    <DIR>          Cozy Time
+21/10/2017  02:30    <DIR>          Dagang
+26/05/2019  09:42            43.033 DLibGpEUQAAp0Y_.jpg
+06/11/2019  00:11           323.323 Doc 1.pdf
+08/03/2018  19:03            14.524 Donat kentang NCC.docx
+27/05/2018  15:47    <DIR>          Driver Pack Solution
+12/03/2019  20:09    <DIR>          Fix BAGUS
+05/11/2019  14:24    <DIR>          Installments
+31/03/2018  20:30           100.450 kamil wkwkwk.jpg
+26/05/2019  09:34           113.182 king_s_raid_fan_art___jane_grey__chibi__by_r
+agiakurusu1446_dbq8jua-fullview.jpg
+22/06/2016  16:20            11.972 kleiner-div-logo-header.png
+09/11/2017  12:01            44.893 material_doc.ico
+01/11/2019  00:40    <DIR>          Media Center
+29/09/2018  18:10           440.020 mr_midas_splash.png
+06/10/2018  17:49           103.705 nature_s_profit_ft__hand_of_midas_by_project
+xenix-d7zlo99.jpg
+12/07/2016  10:56           336.839 pikathor_by_estacado071785-d96a5ib.png
+23/07/2016  10:33    <DIR>          PokemonGo-Map-master
+17/11/2018  23:03    <DIR>          Program Files
+08/11/2016  08:02    <DIR>          Program Files (x86)
+11/09/2015  03:59    <DIR>          ProgramData
+06/11/2019  04:31                 0 readme.txt.txt
+06/10/2018  14:04            78.704 rifqie.jpg
+09/11/2017  12:01            45.514 ruby_doc.ico
+16/02/2019  04:52    <DIR>          Science!
+06/11/2019  00:56    <DIR>          Self Enrichment
+11/08/2018  17:49            80.647 tuturu_by_tovam-d95ip7w.png.jpg
+14/06/2016  06:04            24.218 Untitled.jpg
+26/09/2018  14:06            63.713 upwelling.jpg
+18/06/2018  08:49           131.678 we_bare_bears_by_lizardlover03-d92x2ct.png
+06/10/2019  02:39    <DIR>          Workspace
+              24 File(s)      4.533.959 bytes
+              14 Dir(s)  216.680.976.384 bytes free
+
+5. mkdir
+D:\>mkdir praxis-academy
+
+6. ren
+D:\>ren praxis-academy Praxis-Academy
+
+D:\>rd Dota
+
+7. echo
+D:\>echo
+ECHO is on.
+
+8. time
+D:\>time
+The current time is:  4:46:00,92
+Enter the new time: 4:46:30
+
+9. vol
+D:\>vol D:
+ Volume in drive D is Inspiring
+ Volume Serial Number is 382E-5F16
+
+10. ver
+D:\>ver
+
+Microsoft Windows [Version 6.1.7601]
+
+11. move
+D:\>move \readme.txt praxis-academy
+
+12. erase
+D:\>erase pokemon.gif
+
+13. prompt
+D:\>prompt $d$s$s$t$_$g
+
+06/11/2019   5:06:15,84
+
+14. start
+>start
+
+06/11/2019   5:11:25,78
+
+(open another cmd)
+>Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+06/11/2019   5:11:25,81
+
+15. clear
+>cls 
+
+16. exit
+>exit
+
+17. md
+>md Homework
+
+06/11/2019   5:13:55,24
+
+18. color
+>color 48
+
+(background cmd berubah menjjadi merah bata)
+06/11/2019   5:17:57,94
+
+(karena gak suka warnanya jadi saya restart cmd-nya)
+
+19. rmdir
+D:\>rmdir Homework
+
+20.type
+D:\>type border.txt
+border SPL
+
+5 46'56.08"S
+106 13'1.27"T
+
+6 3'1.34"S
+106 39'2.41"T
+
+5 46'56.08"S    106 13'1.27"T
+546'56.08"S    106 39'2.41"T
+6 3'1.34"S     106 39'2.41"T
+6 3'1.34"S     106 13'1.27"T
+
+
+-5,782244444    106,2170194
+-5,782244444    106,6506694
+-6,050372222    106,6506694
+-6,050372222    106,2170194
+
+
+pixel seadas
+
+SCENE START X: 243
+SCENE START y: 270
+SCENE END X  : 293
+SCENE END y  : 300
+
+D:\>@echo off
+title Updating Files
+copy \\server\share\*.xls c:\users\common\*.xls
+The network path was not found.
+echo Files Updated.
+Files Updated.
+title Command Prompt
+
+echo Files Updated.
+
